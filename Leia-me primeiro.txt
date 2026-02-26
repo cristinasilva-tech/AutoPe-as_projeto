@@ -1,0 +1,10 @@
+Sistema Integrado de Peças
+
+para executar a aplicação precisa de alguns pré requisitos:
+ - j2sdk1.4.2 ou superior
+ - Criar um ODBC apontando para o BD na pasta C:/SIP/
+
+para executar a aplicação entrar no prompt na pasta SIP digitar:
+ java Sip
+
+já possui alguns cadastro no BD com os numeros 8, 9, 10
